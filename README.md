@@ -1,4 +1,4 @@
-# Data-Analyst-Prject-RBNB
+# Data Analyst Project-RBNB
 Projekt rbnb to analiza danych dotyczących ofert Airbnb w Nowym Jorku. Celem było zrozumienie, w jaki sposób cena noclegów zależy od lokalizacji, typu pokoju, opcji natychmiastowej rezerwacji oraz innych zmiennych. Analiza obejmuje zarówno dane statystyczne, jak i wizualizacje w dashboardzie Tableau.
 Struktura projektu
 
